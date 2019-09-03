@@ -242,7 +242,7 @@ void BLOCK::mousePressEvent(QGraphicsSceneMouseEvent *event)
     y = event->lastScenePos().y();
     qDebug()<<"x is:" << x << "y is :" << y;
 
-    qDebug()<<"x is:" << x << "y is dsafadfsad :" << y;
+    qDebug()<<"x is:" << x << "y is a :" << y;
 
 
     if ( x%50 > 10 && x%50 < 40 && ( y%50 <= 5 || (y%50 >= 45 && y%50 <= 49 ) ))

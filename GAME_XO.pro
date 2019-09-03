@@ -28,7 +28,6 @@ SOURCES += \
         block.cpp \
         border.cpp \
         game.cpp \
-        k.cpp \
         main.cpp \
         playerline.cpp \
         winner.cpp
@@ -37,7 +36,6 @@ HEADERS += \
     block.h \
     border.h \
     game.h \
-    k.h \
     playerline.h \
     winner.h
 
